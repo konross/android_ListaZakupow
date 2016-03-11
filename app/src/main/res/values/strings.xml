@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ListaZakupow</string>
+    <string name="add">Dodaj nową listę</string>
+    <string name="exit">Wyjdź</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="nazwa">Podaj nazwę listy</string>
+    <string name="powrot">Powrót</string>
+    <string name="dodajProdukt">Dodaj produkt</string>
+    <string name="podaj">Podaj nazwę:</string>
+    <string name="Twojelis">Twoje listy:</string>
+    <string name="cena">CENA</string>
+    <string name="products">TWOJE PRODUKTY</string>
+    <string name="suma">Do zapłaty:</string>
+    <string name="zero">0.0</string>
+</resources>
